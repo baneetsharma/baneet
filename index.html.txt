@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <title> 
+      HTML charset Attribute 
+  </title> 
+    <meta name="keywords" 
+          charset="UTF-8"
+          content="Meta Tags, Metadata" /> 
+</head> 
+  
+<body style="text-align:center"> 
+    <H1>Hello GeeksforGeeks!</H1> 
+    <h2> 
+      HTML charset Attribute in Meta Element 
+  </h2> 
+</body> 
+  
+</html> 
